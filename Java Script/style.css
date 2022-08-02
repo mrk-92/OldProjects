@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    line-height: 3px;
+    padding: 3px;
+    color: blue;
+}
+
+#clock1 {
+    font-size: 40px
+}
+
+#clock2 {
+    font-size: 40px
+}
+
+#text {
+    font-size: 33px
+}
+
+#clock3 {
+    font-size: 60px
+}
